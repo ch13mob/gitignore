@@ -7,3 +7,9 @@ captures
 *.iml
 /app/release
 /app/src/main/gen/
+
+
+# remove tracked files
+# git rm -r --cached . 
+# git add .
+# git commit -am "Remove ignored files"
